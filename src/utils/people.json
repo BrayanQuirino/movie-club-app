@@ -4,7 +4,7 @@
     "name": "Kary",
     "last_name": "Flowers",
     "points": 0,
-    "image": "src/utils/images/kary.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/kary.jpeg?raw=true",
     "title": "Club Member"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Brayan",
     "last_name": "Quirino",
     "points": 0,
-    "image": "src/utils/images/brayan.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/brayan.jpeg?raw=true",
     "title": "Club Member"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Axel",
     "last_name": "Quirino",
     "points": 0,
-    "image": "src/utils/images/chelito.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/chelito.jpeg?raw=true",
     
     "title": "Club Member"
   },
@@ -29,7 +29,7 @@
     "name": "Gato",
     "last_name": "Jaret",
     "points": 0,
-    "image": "src/utils/images/gato.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/gato.jpeg?raw=true",
     "title": "Club Member"
   },
   {
@@ -37,7 +37,7 @@
     "name": "Guñin",
     "last_name": "Aixa",
     "points": 0,
-    "image": "src/utils/images/aixa.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/aixa.jpeg?raw=true",
     "title": "Club Member"
   },
   {
@@ -45,7 +45,7 @@
     "name": "Danilo",
     "last_name": "Vargas",
     "points": 1,
-    "image": "src/utils/images/danilo.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/danilo.jpeg?raw=true",
     "title": "Club Member"
   },
   {
@@ -53,7 +53,7 @@
     "name": "Oscar",
     "last_name": "Banti",
     "points": 0,
-    "image": "src/utils/images/oscarin.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/oscarin.jpeg?raw=true",
     "title": "Club Member"
   },
   {
@@ -61,7 +61,7 @@
     "name": "Brandon",
     "last_name": "Banti",
     "points": 0,
-    "image": "src/utils/images/brandon.jpeg",
+    "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/brandon.jpeg?raw=true",
     "title": "Club Member"
   },
   {
