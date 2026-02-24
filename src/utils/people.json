@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Kary",
+    "last_name": "Flowers",
+    "points": 0,
+    "image": "src/utils/images/kary.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 2,
+    "name": "Brayan",
+    "last_name": "Quirino",
+    "points": 0,
+    "image": "src/utils/images/brayan.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 3,
+    "name": "Axel",
+    "last_name": "Quirino",
+    "points": 0,
+    "image": "src/utils/images/chelito.jpeg",
+    
+    "title": "Club Member"
+  },
+  {
+    "id": 4,
+    "name": "Gato",
+    "last_name": "Jaret",
+    "points": 0,
+    "image": "src/utils/images/gato.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 5,
+    "name": "Guñin",
+    "last_name": "Aixa",
+    "points": 0,
+    "image": "src/utils/images/aixa.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 6,
+    "name": "Danilo",
+    "last_name": "Vargas",
+    "points": 1,
+    "image": "src/utils/images/danilo.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 7,
+    "name": "Oscar",
+    "last_name": "Banti",
+    "points": 0,
+    "image": "src/utils/images/oscarin.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 8,
+    "name": "Brandon",
+    "last_name": "Banti",
+    "points": 0,
+    "image": "src/utils/images/brandon.jpeg",
+    "title": "Club Member"
+  },
+  {
+    "id": 9,
+    "name": "Angel",
+    "last_name": "Junianito",
+    "points": 0,
+    "image": "https://i.pravatar.cc/150?img=3",
+    "title": "Club Member"
+  },
+  {
+    "id": 10,
+    "name": "Richi",
+    "last_name": "Ojeda",
+    "points": 0,
+    "image": "https://i.pravatar.cc/150?img=3",
+    "title": "Club Member"
+  },
+  {
+    "id": 11,
+    "name": "Vale",
+    "last_name": "Higareda",
+    "points": 0,
+    "image": "https://i.pravatar.cc/150?img=3",
+    "title": "Club Member"
+  }
+]
