@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/BrayanQuirino/movie-club-app",
+  "homepage": "https://BrayanQuirino.github.io/movie-club-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
