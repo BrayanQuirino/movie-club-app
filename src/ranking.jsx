@@ -1,6 +1,6 @@
 import React from "react";
 import RankingItem from "./rankingItem.jsx";
-import people from "./utils/people.json";
+import people from "./utils/jsons/people.json";
 
 const Ranking = () => {
   const rankingElements = [];
@@ -23,13 +23,9 @@ const Ranking = () => {
   }
 
   return (
-    <div className="ranking-container">
-        <h2 className="title-secction">Ranking</h2>
-        <div className="ranking-container">
-        {rankingElements}
-        </div>
-    </div>
-    
+    <>
+      {rankingElements}
+    </>
   );
 };
 

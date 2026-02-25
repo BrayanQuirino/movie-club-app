@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Película: ",
+        "title_content": "En prescencia del diablo",
+        "description": "",
+        "description_content": "",
+        "deadline": "8 de marzo de 2026",
+        "points_rewards": "2, se validan al momento de reunirnos",
+        "adicional_rewards": "Ninguno",
+        "link": "https://tv.apple.com/mx/movie/en-presencia-del-diablo/umc.cmc.1d0v0i3zq96z746mztcrggw65"
+    },
+    {
+        "title": "Actividad de la quincena: ",
+        "title_content": "FotoCopia",
+        "description": "Descripción: ",
+        "description_content": "Intenta sacar una foto que se parezca a una escena de la película.",
+        "deadline": "8 de marzo de 2026",
+        "points_rewards": "1 punto por subir la foto al whats",
+        "adicional_rewards": "3 puntos por ser la foto con más reacciones",
+        "link": ""
+    },
+    {
+        "title": "Actividad de la semana: ",
+        "title_content": "Frase extraña",
+        "description": "Descripción: ",
+        "description_content": "Intenta sacar una foto de la frase más extraña que te encuentres, puede ser en un bus, en un grafiti etc.",
+        "deadline": "27 de febrero de 2026",
+        "points_rewards": "1 por subir la foto al whats",
+        "adicional_rewards": "2 puntos por ser la foto con más reacciones",
+        "link": ""
+    }
+]
