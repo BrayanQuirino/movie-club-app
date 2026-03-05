@@ -2,30 +2,44 @@ import { useState } from 'react'
 import './index.css'
 import Ranking from './ranking';
 import Notifications from './Notifications';
+import Reward from './reward';
 
 function App() {
   const [count, setCount] = useState(0);
   const [mainPage, setMainPage] = useState(true);
   const [notifications, setNotifications] = useState(false);
   const [ranking, setRanking] = useState(false);
+  const [rewards, setRewards] = useState(false);
+
 
 
    const turnOnMainPage= function(){
     setMainPage(true);
     setNotifications(false);
     setRanking(false);
+    setRewards(false);
   }
 
   const turnOnRanking= function(){
     setMainPage(false);
     setNotifications(false);
     setRanking(true);
+    setRewards(false);
+
   }
   
   const turnOnNotifications = function(){
     setMainPage(false);
     setNotifications(true);
     setRanking(false);
+    setRewards(false);
+  }
+
+  const turnOnRewards = function(){
+    setMainPage(false);
+    setNotifications(false);
+    setRanking(false);
+    setRewards(true);
   }
   return (
     <div className='main-container'>
@@ -34,6 +48,8 @@ function App() {
         <li className='menu-item' onClick={turnOnMainPage}>Movie</li>
         <li className='menu-item' onClick={turnOnRanking}>Ranking</li>
         <li className='menu-item' onClick={turnOnNotifications} >Activities</li>
+        <li className='menu-item' onClick={turnOnRewards} >Rewards</li>
+
       </ul>
       {mainPage && <>
           <div className= 'main-title'>
@@ -50,6 +66,9 @@ function App() {
         </div>}
         { ranking &&<div className='ranking-section'>
           <Ranking/>
+        </div>}
+        { rewards &&<div className='rewards-section'>
+          <Reward/>
         </div>}
       </div>
     </div>

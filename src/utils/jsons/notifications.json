@@ -21,11 +21,11 @@
     },
     {
         "title": "Actividad de la semana: ",
-        "title_content": "Frase extraña",
+        "title_content": "ComicDay",
         "description": "Descripción: ",
-        "description_content": "Intenta sacar una foto de la frase más extraña que te encuentres, puede ser en un bus, en un grafiti etc.",
-        "deadline": "27 de febrero de 2026",
-        "points_rewards": "1 por subir la foto al whats",
+        "description_content": "Dibuja tu día en 4 recuadros, como si fuera un comic, resumelo.",
+        "deadline": "9 de marzo de 2026",
+        "points_rewards": "2 por subir la foto al whats",
         "adicional_rewards": "2 puntos por ser la foto con más reacciones",
         "link": ""
     }

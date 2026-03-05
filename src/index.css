@@ -197,6 +197,7 @@ html {
   align-items: center;
 
   overflow-y: scroll;
+  overflow-x: hidden;
 
 }
 
@@ -372,6 +373,28 @@ html {
   align-items: center;
 
 }
+
+.rewards-section::-webkit-scrollbar {
+  display: none;
+  width: 0; /* Ensures the scrollbar takes no space */
+  height: 0;
+}
+
+.rewards-section{
+  width: 90%;
+  height: 100%;
+  background-color: transparent;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+}
+
 
 @media (max-width: 590px) {
   .position-container{
