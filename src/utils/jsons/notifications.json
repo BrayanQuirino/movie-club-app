@@ -14,19 +14,19 @@
         "title_content": "FotoCopia",
         "description": "Descripción: ",
         "description_content": "Intenta sacar una foto que se parezca a una escena de la película.",
-        "deadline": "8 de marzo de 2026",
+        "deadline": "9 de marzo de 2026",
         "points_rewards": "1 punto por subir la foto al whats",
         "adicional_rewards": "3 puntos por ser la foto con más reacciones",
         "link": ""
     },
     {
         "title": "Actividad de la semana: ",
-        "title_content": "ComicDay",
+        "title_content": "Vida Saludable",
         "description": "Descripción: ",
-        "description_content": "Dibuja tu día en 4 recuadros, como si fuera un comic, resumelo.",
-        "deadline": "9 de marzo de 2026",
-        "points_rewards": "2 por subir la foto al whats",
-        "adicional_rewards": "2 puntos por ser la foto con más reacciones",
+        "description_content": "Actividad conjunta\n1. Bebe 2 litros de agua.\n2. Camina 3000 pasos.\n3. Sube la foto del desayuno más chido hayas comido esta semana.",
+        "deadline": "15 de marzo de 2026",
+        "points_rewards": "\n1 punto por subir una foto de tu termo o botella de dos litros antes y después\n1 punto por subir la foto de una app contadora de pasos con 3000.\n1 punto por subir una foto del desayuno más chido",
+        "adicional_rewards": "Desición siguiente actividad",
         "link": ""
     }
 ]

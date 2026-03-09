@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Brayan",
     "last_name": "Quirino",
-    "points": 1,
+    "points": 3,
     "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/brayan.jpeg?raw=true",
     "title": "Club Member"
   },
@@ -28,7 +28,7 @@
     "id": 4,
     "name": "Gato",
     "last_name": "Jaret",
-    "points": 2,
+    "points": 4,
     "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/gato.jpeg?raw=true",
     "title": "Club Member"
   },
@@ -36,7 +36,7 @@
     "id": 5,
     "name": "Guñin",
     "last_name": "Aixa",
-    "points": 2,
+    "points": 6,
     "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/aixa.jpeg?raw=true",
     "title": "Club Member"
   },
@@ -44,7 +44,7 @@
     "id": 6,
     "name": "Danilo",
     "last_name": "Vargas",
-    "points": 4,
+    "points": 6,
     "image": "https://github.com/BrayanQuirino/movie-club-app/blob/main/src/utils/images/danilo.jpeg?raw=true",
     "title": "Club Member"
   },

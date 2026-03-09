@@ -210,6 +210,8 @@ html {
   background-color: #002f49;
   border-radius: 10px;
 
+  white-space: pre-line;
+
 }
 
 .notification-title{
