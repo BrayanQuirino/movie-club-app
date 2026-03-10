@@ -46,7 +46,7 @@ html {
 }
 
 .main-container{
-  background-image: linear-gradient(158deg, rgba(17, 76, 99, 0.719) 48%, #8b53edec 100%), url(./utils/images/movie.jpg);
+  background-image: linear-gradient(158deg, rgba(17, 76, 99, 0.719) 48%, #8b53edec 100%), url(./utils/images/gato.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
