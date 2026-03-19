@@ -11,21 +11,21 @@
     },
     {
         "title": "Actividad de la quincena: ",
-        "title_content": "FotoCopia",
+        "title_content": "Cazador de Gatos",
         "description": "Descripción: ",
-        "description_content": "Intenta sacar una foto que se parezca a una escena de la película.",
-        "deadline": "10 de marzo de 2026",
-        "points_rewards": "1 punto por subir la foto al whats",
-        "adicional_rewards": "3 puntos por ser la foto con más reacciones",
+        "description_content": "Toma fotos de diferentes gatos, el que tenga más gatos distintos gana!",
+        "deadline": "24 de marzo de 2026",
+        "points_rewards": "1 punto por subir las fotos al whats",
+        "adicional_rewards": "2 puntos por ser quien tenga más gatos en la galeria.",
         "link": ""
     },
     {
         "title": "Actividad de la semana: ",
-        "title_content": "Vida Saludable",
+        "title_content": "Modo literaura",
         "description": "Descripción: ",
-        "description_content": "Actividad conjunta\n1. Bebe 2 litros de agua.\n2. Camina 3000 pasos.\n3. Sube la foto del desayuno más chido hayas comido esta semana.",
-        "deadline": "15 de marzo de 2026",
-        "points_rewards": "\n1 punto por subir una foto de tu termo o botella de dos litros antes y después\n1 punto por subir la foto de una app contadora de pasos con 3000.\n1 punto por subir una foto del desayuno más chido",
+        "description_content": "Actividad conjunta\n1. Muestra 10 paginas que hayas leido. Pueden ser de un comic, de un articulo de la escuela, alguna investigación, etc.\n2. Escribe un poema de 4 lineas sobre el gato con botas.",
+        "deadline": "22 de marzo de 2026",
+        "points_rewards": "\n1 punto por subir lo que hayas leido con un contexto pequeño\n1 punto por subir el poema, 2 puntos adicionales por ser el que tenga más reacciones.",
         "adicional_rewards": "Desición siguiente actividad",
         "link": ""
     }

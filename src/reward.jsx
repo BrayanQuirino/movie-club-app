@@ -6,6 +6,12 @@ const Reward = ({title,title_content, description,
   return (
     <>
     <div className="notification-container">
+      <h2 className="notification-title">Lider de Temporada</h2>
+      <h2 className="notification-title">Recompensa: <a className="focus">Regalo especial</a></h2>
+      <h2 className="notification-title">Costo: <a className="focus">Todos los puntos</a></h2>
+      <h2 className="notification-title">Aplicable a: <a className="focus">Líder de puntos al final de temporada 23 de mayo.</a></h2>
+    </div>
+    <div className="notification-container">
       <h2 className="notification-title">Lider de Puntos</h2>
       <h2 className="notification-title">Recompensa: <a className="focus">Puedes desestimar 2 generos de la proxima película a elegir o desestimar la película elegida</a></h2>
       <h2 className="notification-title">Costo: <a className="focus">Mitad de puntos</a></h2>
