@@ -1,32 +1,32 @@
 [
     {
         "title": "Película: ",
-        "title_content": "El gato con botas 2: Último Deseo",
+        "title_content": "Perfect Blue",
         "description": "",
         "description_content": "",
-        "deadline": "24 de marzo de 2026",
+        "deadline": "6 de abril de 2026",
         "points_rewards": "2, se validan al momento de reunirnos",
         "adicional_rewards": "Ninguno",
         "link": ""
     },
     {
         "title": "Actividad de la quincena: ",
-        "title_content": "Cazador de Gatos",
+        "title_content": "Antes y Después",
         "description": "Descripción: ",
-        "description_content": "Toma fotos de diferentes gatos, el que tenga más gatos distintos gana!",
-        "deadline": "24 de marzo de 2026",
+        "description_content": "Sube un par de fotos mostrando el antes y después de algo. Puede ser un objeto, una persona, un lugar etc.",
+        "deadline": "13 de abril de 2026",
         "points_rewards": "1 punto por subir las fotos al whats",
-        "adicional_rewards": "2 puntos por ser quien tenga más gatos en la galeria.",
+        "adicional_rewards": "2 puntos por las fotos más creativas",
         "link": ""
     },
     {
         "title": "Actividad de la semana: ",
-        "title_content": "Modo literaura",
+        "title_content": "Microconfesión",
         "description": "Descripción: ",
-        "description_content": "Actividad conjunta\n1. Muestra 10 paginas que hayas leido. Pueden ser de un comic, de un articulo de la escuela, alguna investigación, etc.\n2. Escribe un poema de 4 lineas sobre el gato con botas.",
-        "deadline": "22 de marzo de 2026",
-        "points_rewards": "\n1 punto por subir lo que hayas leido con un contexto pequeño\n1 punto por subir el poema, 2 puntos adicionales por ser el que tenga más reacciones.",
-        "adicional_rewards": "Desición siguiente actividad",
+        "description_content": "Contar algo que no sepa el grupo, un chisme interensante, un secreto, algo que dio risa.",
+        "deadline": "6 de abril de 2026",
+        "points_rewards": "1 punto por subir la microconfesión. 2 punto por ser la confesión más chida",
+        "adicional_rewards": "0",
         "link": ""
     }
 ]

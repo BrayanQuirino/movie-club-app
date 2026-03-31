@@ -46,7 +46,7 @@ html {
 }
 
 .main-container{
-  background-image: linear-gradient(158deg, rgba(17, 76, 99, 0.719) 48%, #8b53edec 100%), url(./utils/images/gato.jpg);
+  background-image: linear-gradient(158deg, rgba(17, 76, 99, 0.719) 48%, #8b53edec 100%), url(./utils/images/perfect_blue.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
@@ -209,8 +209,6 @@ html {
 
   background-color: #002f49;
   border-radius: 10px;
-
-  white-space: pre-line;
 
 }
 
